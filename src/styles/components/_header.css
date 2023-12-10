@@ -1,0 +1,21 @@
+.avatar{
+    gap: 20px;
+    color: #FFFFFF;
+}
+
+.avatar img{
+    margin-left: 10px;
+}
+
+header{
+    background: #3047EC;
+    width: 100%;
+    border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+}
+
+.textHere{
+    width: 100%;
+    color: #FFFFFF;
+    font-size: 36px;
+}

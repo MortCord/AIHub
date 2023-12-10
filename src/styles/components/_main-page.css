@@ -1,0 +1,25 @@
+.main-text{
+    text-align: center;
+    font-size: 50px;
+}
+
+.main-but{
+    background: #3047EC;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    width: 430px;
+    height: 57px;
+    font-size: 24px;
+    transition: background-color 0.2s;
+}
+
+.main-but:hover{
+    background: #0b1561;
+}
+
+.main-buts{
+    width: 100%;
+    gap: 60px;
+    height: 60vh;
+}

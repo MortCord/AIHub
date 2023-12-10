@@ -1,0 +1,17 @@
+.wind{
+    border: 1px #000 solid;
+    background: #D9D9D9;
+    font-size: 16px;
+    width: 80%;
+}
+
+.wind p{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main-wind{
+    height: 80vh;
+}
