@@ -1,1 +1,2 @@
 # AIHub
+This is an AI chat for the military, which specializes in the military field. With the help of this chat, the soldier can improve his knowledge. He will provide reliable information in his own words, that is, he will have a library loaded with various military training data. The AI ​​will be able to work online and offline
