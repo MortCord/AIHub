@@ -8,7 +8,7 @@ const Header = (props) =>{
             <div className='d-flex avatar align-items-center'>
                 {props.arrow === true ? <NavLink to="/"><img className='arrow' src={arrow} alt='arrow'/></NavLink> : null}
                 <img src={aiAvatar} alt="aiAvatar" />
-                <h4 className='mt-4 pb-3'>BOT</h4>
+                <h4 className='mt-4 pb-3'>Aysik</h4>
             </div>
             <div className='d-flex justify-content-center textHere align-items-center'>
                 <span>{props.pageName}</span>
